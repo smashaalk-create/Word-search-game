@@ -1,0 +1,8 @@
+{
+  "name": "LexiSearch Pro",
+  "description": "A professional-grade Word Search Puzzle Game with smooth animations, procedural grid generation, and multi-difficulty levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
